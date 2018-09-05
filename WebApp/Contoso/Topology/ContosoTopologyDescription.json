@@ -3,7 +3,7 @@
   "Factories": [
     {
       "Guid": "73B534AE-7C7E-4877-B826-F1C0EA339F65",
-      "Name": "Munich",
+      "Name": "Campbellfield",
       "Description": "Braking system",
       "Location": {
         "City": "Munich",
@@ -287,7 +287,7 @@
     },
     {
       "Guid": "CB1DBFA0-F520-46E1-85E1-97DCD67860D0",
-      "Name": "Cape Town",
+      "Name": "Mascot",
       "Description": "Fuel supply system",
       "Location": {
         "City": "Cape Town",
